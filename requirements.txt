@@ -1,4 +1,7 @@
 bokeh
+jupyterlab
+jupyter-contrib-nbextensions
+jupyter-nbextensions-configurator
 numpy
 pandas
 geopandas
